@@ -6,4 +6,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({ countTest.class, squareTest.class })
 public class AllTests {
 //Branch demo
+//Pull Request demo 
 }
